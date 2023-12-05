@@ -3,9 +3,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+header{
+  max-width: 76rem;
+  margin: 2rem auto;
+}
+.heading{
+  font-size: 22px;
+    color: #000000;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0px;
+    text-align: left;
+}
+.heading-detail{
+  font-size: 14px;
+      color: #757575;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: left;
+    line-height: 20px;
+}
 .sales{
   width: 100%;
-  padding: 2rem 0;
+  /* padding: 2rem 0; */
 }
 .container-items{
         display: none;
